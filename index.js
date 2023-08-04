@@ -9,5 +9,5 @@ app.listen(port, (err) => {
     if (err) {
       console.log('Error::', err);
     }
-      console.log(`Onexlab app listening on port ${port}`);
+      console.log(`listening on port ${port}`);
   });
